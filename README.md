@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi👋, I'm Yashwanth Raasa, a tech enthusiast.
 
-<!--
-**YashwanthRaasa/YashwanthRaasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💫 I'm a Tech-Lead Intern at SoAI 2025.
+* 🌱 I am passionate about learning new technologies and improving my coding skills every day.  
+* 💻 Currently exploring the topics such as:
+      > Python
+      > AI & ML
+      > RAG
+      > Prompt Engineering and etc.,  
+* 🎯 Excited to grow through hands-on projects and open-source contributions.  
+* 🤝 Always open to collaboration and learning from others in the community.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my profile! Let's learn and build together. 🚀
